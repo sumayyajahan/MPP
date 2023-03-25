@@ -1,0 +1,54 @@
+Write a short essay discussing the relationship between an SCI principle
+of your choosing and a Computer Science principle that is relevant for
+this MPP course. Richer content will be awarded more credit.
+
+I can relate MPP with SCI principle. Following things i can relate with Inheritance , functional programming, streams 
+
+Inheritance in Java allows subclasses to be enjoyed (and reused) 
+ Superclass properties. All Java classes  automatically inherit from the Object class. 
+ Transcendental consciousness is and goes beyond pure consciousness 
+ The level of active thinking, it is the innate right and the  essential nature of 
+ Everyone. Everyone "inherits" from pure consciousness. Wholeness moves within itself: for a sense of unity 
+ Deeper awareness: the only data and behavior that exists in  
+ The universe is "inherited" from pure consciousness-everything 
+ In this state, it is seen as a play of one's consciousness.
+
+In Java SE 7, the only first-class citizens are objects, created from classes. The 
+ valuable techniques of functional programming and a declarative style can be 
+ approximated using functional interfaces.In Java SE 8, functions – in the form of lambda expressions – have become firstclass citizens, and can be passed as arguments and occur as return values. In this 
+ new version, the advantage of functional programming with its declarative style is 
+ now supported in the language 
+ 
+ Transcendental Consciousness: TC, which can be experienced in the stillness of 
+ one`s awareness through transcending, is where the laws of nature begin to operate 
+ – it is the home of all the laws of nature 
+ Impulses Within the Transcendental Field: As TC becomes more familiar, more 
+ and more, intentions and desires reach fulfillment effortlessly, because of the 
+ hidden support of the laws of nature.  Wholeness moving within Itself: In Unity Consciousness, one finally recognizes 
+ the universe in oneself – that all of life is simply the impulse of one`s own 
+ consciousness. In that state, one effortlessly commands the laws of nature for all 
+ good in the universe 
+ Prior to the release of Java 8, extracting or manipulating data in one or more lists 
+ or other Collection classes involved multiple loops and code that is often difficult 
+ to understand. With the introduction of lambdas and streams, Java 8 enables creation 
+ A compact, easy-to-read, reusable expression that performs list processing tasks  
+ A very efficient method. These can be collected in the Lambda library. 
+ Transcendental consciousness is the underlying field of all thought and creativity. 
+ And in the end everything reveals its existence. Impulse in a transcendental field. Self-reference dynamic hidden inside 
+  The  field of pure intelligence provides a blueprint for the emergence of all diversity.  This blueprint is formed from a compact representation of consistent intelligence  
+ Placed on the first germination of existence. The wholeness works within itself. In a unified consciousness, the basic form 
+ From what the existence of the manifest  is structured, it is considered to be the vibration mode of 
+ Your own consciousness. 
+ You can do generic programming using raw lists prior to Java 1.5 
+ The task of exchanging two elements in a list with invalid signatures 
+ swap (list, int pos1, int pos2). To use this replacement method, the programmer must do so 
+ Gets the component type of the list. There is no type check. 
+ Compiler 
+ Transcendental Consciousness is a universal value in the field of consciousness 
+ Present at every point of creation. 4.4. Impulse in a transcendental field. Existence of transcendental airplanes 
+ Consciousness at each point of existence  
+ Manifest fields are as rich, unique and diverse as possible.  5. The whole moves within itself. At Unity Consciousness, life around the world is valued 
+ The sources of both unity and diversity have been united, so as completely as possible 
+ Living reality.
+
+ 
